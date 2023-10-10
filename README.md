@@ -7,7 +7,6 @@ I am skilled with React JS, Javascript, ES6, HTML5, CSS3, TailwindCSS, Bootstrap
 
 Besides I can manage my time in proper timeline also can build interpersonal communication with another person.
 
-<h3 align="center">I would like to introduce myself as a React/MERN Developer.</h3>
 
 - 🌱 I’m currently learning new technology **Next JS, Typescript**
 
