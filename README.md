@@ -1,4 +1,6 @@
 <h1 align="center">Hey 👋, Myself Abdullah Muhammad Siam</h1>
+![](https://media.licdn.com/dms/image/D5616AQGavNqHF-1-bA/profile-displaybackgroundimage-shrink_350_1400/0/1693723536147?e=1702512000&v=beta&t=FXUvGgSDVa28gBTftdv7mb57oN_O8FAI3wYYs_Qc1aM)
+
 <h3 align="center">I would like to introduce myself as a React/MERN Developer.</h3>
 
 - 🌱 I’m currently learning new technology **Next JS, Typescript**
