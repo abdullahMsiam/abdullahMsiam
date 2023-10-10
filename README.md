@@ -32,11 +32,10 @@ Besides I can manage my time in proper timeline also can build interpersonal com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdullahMsiam)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahMsiam)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahMsiam&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/abdullahMsiam)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahMsiam)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahMsiam&show_icons=true&count_private=true) 
+ 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abdullahMsiam)  
+![GitHub metrics](https://metrics.lecoq.io/abdullahMsiam)  
+
 
