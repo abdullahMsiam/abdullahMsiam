@@ -1,8 +1,8 @@
 <!-- <h1 align="center">Hey 👋, Myself Abdullah Muhammad Siam</h1> -->
 
-I introduce myself as a Full Stack developer. My passionate working zone is web developing which force me to forward. I am trying continuously to upgrade my skills for up to date with evolution of technology.
+I introduce myself as a Software developer. My passionate working zone is web developing which force me to forward. I am trying continuously to upgrade my skills for up to date with evolution of technology.
 
-- 🌱 I’m currently learning new technology **Prisma, Next JS, Typescript**
+- 🌱 I’m currently learning new technology **Nest JS, Prisma, Next JS, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://ams-porfolio.vercel.app/](https://ams-porfolio.vercel.app/)
 
